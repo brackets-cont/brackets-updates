@@ -1,3 +1,6 @@
+# ide exclusions
+.idea
+
 # Logs
 logs
 *.log
