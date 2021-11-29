@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "sequence": 1630434600000,
+      "silent": false,
+      "filters": {
+        "platforms": [],
+        "version": "1.14",
+        "locales": [],
+        "builds": [],
+        "lastUsed": ""
+      },
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>The version of brackets installed in this system is unsupported. <a class='actionable' href='https://brackets.io' style='text-decoration: none;font-weight: 500;'>Get the latest version of Brackets here!</a></div></div>",
+      "actionables": ".actionable",
+      "expiry": 1643703382000
+    }
+  ]
+}
