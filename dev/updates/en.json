@@ -1,5 +1,26 @@
 [
   {
+    "buildNumber": 17937,
+    "versionString": "Release 2.1.2",
+    "dateString": "12-07-2022",
+    "releaseNotesURL": "https://github.com/brackets-cont/brackets/releases/tag/v2.1.2-release",
+    "downloadURL": "http://brackets.io",
+    "newFeatures": [
+      {
+        "name": "All New File Navigation Bar",
+        "description": "Quick file navigation with forward, back, locate and search buttons."
+      },
+      {
+        "name": "Enhansed Live Preview",
+        "description": "Drag any number in code with ctrl+alt or cmd+alt pressed to see instant live preview updates."
+      },
+      {
+        "name": "Open GitHub and GitLab URLs",
+        "description": "Quick Open (ctrl-shift-o in windows or cmd-shift-o in Mac) and paste a GitHub/GitLab file url to open in Brackets."
+      }
+    ]
+  },
+  {
     "buildNumber": 17770,
     "versionString": "Release 1.14.2",
     "dateString": "04-06-2020",
