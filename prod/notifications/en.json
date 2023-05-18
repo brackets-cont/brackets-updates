@@ -43,7 +43,7 @@
       "expiry": 1843703382000
     },
     {
-      "sequence": 1630434600021,
+      "sequence": 1630434700022,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -52,7 +52,7 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>Check out <a class='actionable' href='https://phcode.dev' style='text-decoration: none;font-weight: 500;'>phcode.dev</a>, advancing Brackets and its extensions to run in Web Browsers - No installation needed!</div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>We're committed to making Brackets the best it can be, and we need your help.<a class='actionable' href='https://s.surveyplanet.com/rqiqdrbm' style='text-decoration: none;font-weight: 500;'> Please take a few minutes to answer this short survey.</a></div></div>",
       "actionables": ".actionable",
       "expiry": 1843703382000
     }
