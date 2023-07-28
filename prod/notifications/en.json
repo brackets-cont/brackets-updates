@@ -15,34 +15,6 @@
       "expiry": 1643703382000
     },
     {
-      "sequence": 1630434600017,
-      "silent": false,
-      "filters": {
-        "platforms": [],
-        "version": "2.0",
-        "locales": [],
-        "builds": [],
-        "lastUsed": ""
-      },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>The version of brackets installed in this system is unsupported. Get the latest version of Brackets <a class='actionable' href='https://brackets.io' style='text-decoration: none;font-weight: 500;'>here</a> or use <a href='https://phcode.dev' style='text-decoration: none;font-weight: 500;'>phcode.dev</a>!</div></div>",
-      "actionables": ".actionable",
-      "expiry": 1843703382000
-    },
-    {
-      "sequence": 1630434800022,
-      "silent": false,
-      "filters": {
-        "platforms": [],
-        "version": "2.1",
-        "locales": [],
-        "builds": [],
-        "lastUsed": ""
-      },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>Check out <a class='actionable' href='https://phcode.dev' style='text-decoration: none;font-weight: 500;'>phcode.dev</a>, advancing Brackets and its extensions to run in Web Browsers - No installation needed!</div></div>",
-      "actionables": ".actionable",
-      "expiry": 1843703382000
-    },
-    {
       "sequence": 1630434900022,
       "silent": false,
       "filters": {
