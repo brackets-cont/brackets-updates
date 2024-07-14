@@ -15,6 +15,20 @@
       "expiry": 1943703382000
     },
     {
+      "sequence": 1700964606395,
+      "silent": false,
+      "filters": {
+        "platforms": [],
+        "version": "2.1",
+        "locales": [],
+        "builds": [],
+        "lastUsed": ""
+      },
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>이 시스템에 설치된 Brackets 버전은 지원되지 않습니다. Brackets의 차세대 버전을 다운로드하세요! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>다운로드</button></a></div></div>",
+      "actionables": ".actionable",
+      "expiry": 1943703382000
+    },
+    {
       "sequence": 1700964606398,
       "silent": false,
       "filters": {

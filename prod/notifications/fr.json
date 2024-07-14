@@ -15,6 +15,20 @@
       "expiry": 1943703382000
     },
     {
+      "sequence": 1700964606395,
+      "silent": false,
+      "filters": {
+        "platforms": [],
+        "version": "2.1",
+        "locales": [],
+        "builds": [],
+        "lastUsed": ""
+      },
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>La version de Brackets installée sur ce système n'est pas prise en charge. Obtenez la prochaine génération de Brackets ! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Télécharger</button></a></div></div>",
+      "actionables": ".actionable",
+      "expiry": 1943703382000
+    },
+    {
       "sequence": 1700964606398,
       "silent": false,
       "filters": {
