@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "sequence": 1630434600000,
+      "sequence": 1700964606395,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -10,12 +10,12 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>The version of brackets installed in this system is unsupported. Get the latest version of Brackets <a class='actionable' href='https://brackets.io' style='text-decoration: none;font-weight: 500;'>here</a> or use <a href='https://phcode.dev' style='text-decoration: none;font-weight: 500;'>phcode.dev</a>!</div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>The version of Brackets installed in this system is unsupported. Get the next generation of Brackets! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Download</button></a></div></div>",
       "actionables": ".actionable",
-      "expiry": 1643703382000
+      "expiry": 1943703382000
     },
     {
-      "sequence": 1630434900022,
+      "sequence": 1700964606398,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -24,9 +24,9 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>Check out <a class='actionable' href='https://phcode.dev' style='text-decoration: none;font-weight: 500;'>phcode.dev</a>, advancing Brackets and its extensions to run in Web Browsers - No installation needed!</div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>Download the next generation of Brackets! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Download</button></a></div></div>",
       "actionables": ".actionable",
-      "expiry": 1843703382000
+      "expiry": 1943703382000
     }
   ]
 }
