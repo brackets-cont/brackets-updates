@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "sequence": 1700964606395,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -10,12 +10,12 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>La versione di Brackets installata su questo sistema non è supportata. Scarica la nuova generazione di Brackets! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Scarica</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>La versione di Brackets installata su questo sistema non è supportata. È ora di aggiornare!</div>\n      <div style='font-weight: 400;'>Scarica Phoenix Code - la nuova generazione di Brackets con <i>Live Preview 2.0</i>, <i>intelligenza HTML/CSS</i>, <i>Git</i>, <i>supporto Markdown</i> e <i>nuove funzionalità aggiunte ogni mese</i> che ti stai perdendo.</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>Scarica</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Demo Live Preview Dials\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"Demo Intelligenza HTML/CSS\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     },
     {
-      "sequence": 1700964606395,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -24,12 +24,12 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>La versione di Brackets installata su questo sistema non è supportata. Scarica la nuova generazione di Brackets! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Scarica</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>La versione di Brackets installata su questo sistema non è supportata. È ora di aggiornare!</div>\n      <div style='font-weight: 400;'>Scarica Phoenix Code - la nuova generazione di Brackets con <i>Live Preview 2.0</i>, <i>intelligenza HTML/CSS</i>, <i>Git</i>, <i>supporto Markdown</i> e <i>nuove funzionalità aggiunte ogni mese</i> che ti stai perdendo.</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>Scarica</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Demo Live Preview Dials\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"Demo Intelligenza HTML/CSS\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     },
     {
-      "sequence": 1700964606398,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -38,7 +38,7 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>Scarica la nuova generazione di Brackets! - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>Scarica</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>La versione di Brackets installata su questo sistema non è supportata. È ora di aggiornare!</div>\n      <div style='font-weight: 400;'>Scarica Phoenix Code - la nuova generazione di Brackets con <i>Live Preview 2.0</i>, <i>intelligenza HTML/CSS</i>, <i>Git</i>, <i>supporto Markdown</i> e <i>nuove funzionalità aggiunte ogni mese</i> che ti stai perdendo.</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>Scarica</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Demo Live Preview Dials\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"Demo Intelligenza HTML/CSS\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     }

@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "sequence": 1700964606395,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -10,12 +10,12 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>このシステムにインストールされているBracketsのバージョンはサポートされていません。次世代のBracketsをダウンロードしてください！ - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>をダウンロード</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>このシステムにインストールされている Brackets のバージョンはサポートされていません。アップグレードの時です！</div>\n      <div style='font-weight: 400;'>Phoenix Code をダウンロードしましょう - <i>Live Preview 2.0</i>、<i>HTML/CSS インテリジェンス</i>、<i>Git</i>、<i>Markdown サポート</i>、そして<i>毎月追加される新機能</i>を備えた Brackets の次世代バージョンです。</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>ダウンロード</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Live Preview Dials デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"HTML/CSS インテリジェンス デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     },
     {
-      "sequence": 1700964606395,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -24,12 +24,12 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>このシステムにインストールされているBracketsのバージョンはサポートされていません。次世代のBracketsをダウンロードしてください！ - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>をダウンロード</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>このシステムにインストールされている Brackets のバージョンはサポートされていません。アップグレードの時です！</div>\n      <div style='font-weight: 400;'>Phoenix Code をダウンロードしましょう - <i>Live Preview 2.0</i>、<i>HTML/CSS インテリジェンス</i>、<i>Git</i>、<i>Markdown サポート</i>、そして<i>毎月追加される新機能</i>を備えた Brackets の次世代バージョンです。</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>ダウンロード</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Live Preview Dials デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"HTML/CSS インテリジェンス デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     },
     {
-      "sequence": 1700964606398,
+      "sequence": 1721367204894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -38,7 +38,7 @@
         "builds": [],
         "lastUsed": ""
       },
-      "html": "<div style='display: block;height: auto;font-size: 16px;'><div style='display: inline-block;float: left;padding: 7px 65px 7px 5px;font-weight: 500;'>次世代のBracketsをダウンロード！ - Phoenix Code <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;'><button class='btn primary'>をダウンロード</button></a></div></div>",
+      "html": "<div style='display: block;height: auto;font-size: 16px;'>\n  <div style='padding: 7px 25px 7px 5px;'>\n    <div style='margin-bottom: 10px;'>\n      <div style='font-weight: 600;margin-bottom: 5px;'>このシステムにインストールされている Brackets のバージョンはサポートされていません。アップグレードの時です！</div>\n      <div style='font-weight: 400;'>Phoenix Code をダウンロードしましょう - <i>Live Preview 2.0</i>、<i>HTML/CSS インテリジェンス</i>、<i>Git</i>、<i>Markdown サポート</i>、そして<i>毎月追加される新機能</i>を備えた Brackets の次世代バージョンです。</div>\n      <a class='actionable' href='https://phcode.io' style='text-decoration: none;font-weight: 500;display: inline-block;margin-top: 5px;'>\n        <button class='btn primary'>ダウンロード</button>\n      </a>\n    </div>\n    <div style='display: flex;align-items: center;justify-content: space-between;margin: 0;padding: 0;'>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://user-images.githubusercontent.com/5336369/208715497-781e8dfc-1939-4dac-82e8-c7e517be4d9c.gif\" alt=\"Live Preview Dials デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n      <a href='https://phcode.io' style='width: 49%; height: 132px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>\n        <img src=\"https://github.com/phcode-dev/phoenix/assets/5336369/502c8751-5269-4c34-9178-5ad08f8ad837\" alt=\"HTML/CSS インテリジェンス デモ\" style=\"width: 100%; border: 1px solid #ccc; border-radius: 4px; object-fit: contain;\">\n      </a>\n    </div>\n  </div>\n</div>\n",
       "actionables": ".actionable",
       "expiry": 1943703382000
     }
