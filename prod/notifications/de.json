@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "sequence": 1721367204894,
+      "sequence": 1721367214894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -15,7 +15,7 @@
       "expiry": 1943703382000
     },
     {
-      "sequence": 1721367204894,
+      "sequence": 1721367214894,
       "silent": false,
       "filters": {
         "platforms": [],
@@ -29,7 +29,7 @@
       "expiry": 1943703382000
     },
     {
-      "sequence": 1721367204894,
+      "sequence": 1721367214894,
       "silent": false,
       "filters": {
         "platforms": [],
